@@ -4,11 +4,11 @@
 }
 
 #markdown-body {
-	box-sizing: border-box;
-	min-width: 200px;
-	max-width: 980px;
-	margin: 0 auto;
-	padding: 45px;	
+  box-sizing: border-box;
+  min-width: 200px;
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 45px;	
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   line-height: 1.5;
